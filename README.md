@@ -1,7 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Joshua Thomas
-
-### Front End / Web Developer at The University Of Kent
+### Front End / Web Developer
 
 -HTML5, CSS3, SASS, vanilla JavaScript/ES6, Typescript, Tailwind CSS, React.js, PHP and Responsive Design
 
@@ -21,12 +19,11 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
-- 👨🏽‍💻 I’m currently working on [MoneyBox](https://github.com/JoshuasProgramming/MoneyBox)
-- 😃 I recently completed a project called [Koccon 2.0](https://github.com/JoshuasProgramming/Kocoon-ver.2)                                  
+- 👨🏽‍💻 I’m currently working on.
+- 😃 I recently completed a project called.                           
 - 🌱 I’m currently learning React, algorithms and Tailwind CSS
 - 👯 I’m looking to collaborate on anything that we can both add to our portfolio (I'm also interested in freelancing from fiverr)🤝
-- 📫 How to reach me: joshuathomas2852@gmail.com
-- Here is my [Personal Portfolio](https://joshuathomas.dev) [20 PROJECTS]
+- 📫 How to reach me: robinsoncurus@gmail.com
 
 **Languages and Tools:** 
 
